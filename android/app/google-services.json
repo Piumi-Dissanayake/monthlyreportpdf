@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255591146268",
+    "project_id": "monthlyreport-5cf85",
+    "storage_bucket": "monthlyreport-5cf85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255591146268:android:653098f67c9171dfae10d9",
+        "android_client_info": {
+          "package_name": "com.example.monthlyreportpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255591146268-uijfsln19ej4b1dnt7mbpsrkalob72d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lVdBuirNhT-nWx3K3N7rd47w9-jG6IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255591146268-uijfsln19ej4b1dnt7mbpsrkalob72d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
